@@ -35,7 +35,6 @@ All database interactions are handled with **stored procedures**, and the backen
   - A global variables module for session/user info
 - `/SQL/` – Contains:
   - `IT-102 Final Project.sql` – Prepopulated schema and seed data
-  - `IT-102 Final Project.sql` – Additional scripts for improvements and logic
 
 ---
 
@@ -128,7 +127,6 @@ All database interactions are handled with **stored procedures**, and the backen
    - In the relevant module or config file, point it to your local SQL Server instance
 4. **Set Up the Database**
    - Run `IT-102 FinalProject.sql` in SQL Server Management Studio
-   - (Optional) Run `IT-102 Final Project.sql` studio solution file for additional functionality
 5. **Build and Run**
    - Start the app via Visual Studio
    - Use sample credentials to log in as a passenger or employee
